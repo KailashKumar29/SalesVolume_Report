@@ -22,7 +22,7 @@ An **interactive Power BI dashboard** analyzing **sales volume**, **revenue**, a
 ---
 
 ## 🛠 How to View
-1. ⬇ Download `Sales_Volume_Report.pbix`
+1. ⬇ Download VolumeReport-FS.pbix
 2. 💻 Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 3. 🎛 Use the slicers on the left panel to explore insights
 
@@ -35,7 +35,5 @@ An **interactive Power BI dashboard** analyzing **sales volume**, **revenue**, a
 ---
 
 ## 👤 Author
-**Kailash Kumar** – Data Analyst  
-📧 Email: *your email here*  
-🐙 GitHub: [https://github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)  
-💼 LinkedIn: *your LinkedIn link here*
+**Kailash Kumar**
+
