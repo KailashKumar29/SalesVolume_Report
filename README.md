@@ -6,7 +6,7 @@ An **interactive Power BI dashboard** analyzing **sales volume**, **revenue**, a
 ---
 
 ## 📂 Files Included
-- 📁 `Sales_Volume_Report.pbix` – Power BI report (open with Power BI Desktop)
+- 📁 `VolumeReport-FS.pbix` – Power BI report (open with Power BI Desktop)
 - 📄 `sample_data.csv` – small sample dataset for demonstration
 - 🖼 `screenshots/` – preview images of the dashboard
 
@@ -22,7 +22,7 @@ An **interactive Power BI dashboard** analyzing **sales volume**, **revenue**, a
 ---
 
 ## 🛠 How to View
-1. ⬇ Download VolumeReport-FS.pbix
+1. ⬇ Download `VolumeReport-FS.pbix`
 2. 💻 Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 3. 🎛 Use the slicers on the left panel to explore insights
 
